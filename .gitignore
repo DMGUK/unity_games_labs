@@ -1,0 +1,11 @@
+Unity*
+Assembly*
+Simple*
+Builds/
+ProjectSettings/
+Temp/
+UserSettings/
+obj/
+Library/
+Logs/
+.vs/
